@@ -1,1 +1,2 @@
 # Famfound
+  This application aims to make centralization of data of employees in  company which can be used to input, update, delete and search the data and mapping of employees with a centralized system. In this application there are several forms including Branch, department, employee, and salary. Data that has been inputted by the user will be stored in the database, and the data can be accessed and modified as needed.
